@@ -6,8 +6,8 @@
     <title>PRUEBA 2</title>
 </head>
 <body>
-    <h1>
+    <p>
         <?php echo "Jhayer loja sanchez"?>
-    </h1>
+    </p>
 </body>
 </html>
